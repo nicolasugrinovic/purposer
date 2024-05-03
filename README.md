@@ -10,7 +10,7 @@ Code repository for the paper:
 [Francesc Moreno-Noguer](http://www.iri.upc.edu/people/fmoreno/), 
 
 
-[![arXiv](https://img.shields.io/badge/arXiv-2312.05251-00ff00.svg)](https://arxiv.org/pdf/2404.11987.pdf)  [![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](http://www.iri.upc.edu/people/nugrinovic/multiphys/)     
+[![arXiv](https://img.shields.io/badge/arXiv-2312.05251-00ff00.svg)](https://arxiv.org/pdf/2404.12942)  [![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](http://www.iri.upc.edu/people/nugrinovic/purposer/)     
 
 ![teaser](assets/replica.gif)
 
